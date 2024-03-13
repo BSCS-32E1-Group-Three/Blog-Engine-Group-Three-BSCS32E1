@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Blog_Engine.Models.Blog>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<p>
+ <a asp-action="Create" class="create"><box-icon name='plus' class="plus"></box-icon></a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Content)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Author)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Content)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Author)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date)
+            </td>
+            <td>
+                    <a asp-action="Details" class="details" asp-route-id="@item.ID"><box-icon name='detail' class="details-icon"></box-icon></a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

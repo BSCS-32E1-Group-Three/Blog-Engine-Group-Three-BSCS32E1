@@ -1,0 +1,46 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+
+  min-height: 100%;
+}
+
+body{
+  margin-bottom: 60px;
+
+}
+
+
+.back, .create-btn,.create, .details{ 
+  background-color:lightgray;
+  font-size:18px;
+  padding:5px 15px;
+  color:black;
+  margin-left:5px;
+  border-radius:50px;
+  border:none;
+
+}
+.back:hover, .create-btn:hover, .details:hover, .create:hover {
+        background-color: gray;
+}
+.details-icon,.plus,.back-icon{
+    position: relative;
+    top: 5px;
+}
+
+
+
