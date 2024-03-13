@@ -7886,11 +7886,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine.csproj",
+      "projectUniqueName": "E:\\Github\\Blog-Engine\\Blog-Engine.csproj",
       "projectName": "Blog-Engine",
-      "projectPath": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine.csproj",
+      "projectPath": "E:\\Github\\Blog-Engine\\Blog-Engine.csproj",
       "packagesPath": "C:\\Users\\josei\\.nuget\\packages\\",
-      "outputPath": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\obj\\",
+      "outputPath": "E:\\Github\\Blog-Engine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
