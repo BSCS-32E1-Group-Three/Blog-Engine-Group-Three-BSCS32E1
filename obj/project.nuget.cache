@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jlz5N7STyiib2jtMYKBLCSr+QmxgK7WNPrUwRUxY7jsD241iOIXzi+TPCXwP3914N8AlootgPTZ+DjW1LkongQ==",
+  "dgSpecHash": "JVCXXQVuWvVxV2L0DT8vg3VOZqYTsQfaWmQauVCwB+Ul7fMhJp82P9Tinkv163avppwmeg0LjTzvS0ruwPsfrQ==",
   "success": true,
-  "projectFilePath": "E:\\Github\\Blog-Engine\\Blog-Engine.csproj",
+  "projectFilePath": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\josei\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\josei\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
