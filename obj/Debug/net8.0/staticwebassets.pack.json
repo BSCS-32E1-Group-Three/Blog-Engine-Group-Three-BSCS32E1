@@ -1,8 +1,12 @@
 {
   "Files": [
     {
-      "Id": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Blog-Engine.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Blog-Engine.bundle.scp.css"
+      "Id": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\wwwroot\\about-page-img(s)\\jose.png",
+      "PackagePath": "staticwebassets\\about-page-img(s)\\jose.png"
+    },
+    {
+      "Id": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\wwwroot\\about-page-img(s)\\mau.jpg",
+      "PackagePath": "staticwebassets\\about-page-img(s)\\mau.jpg"
     },
     {
       "Id": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\wwwroot\\css\\site.css",

@@ -494,9 +494,7 @@ E:\Blog-Engine-Group-Three-BSCS32E1\Blog-Engine-Group-Three-BSCS32E1\obj\Debug\n
 E:\Blog-Engine-Group-Three-BSCS32E1\Blog-Engine-Group-Three-BSCS32E1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Blog-Engine.props
 E:\Blog-Engine-Group-Three-BSCS32E1\Blog-Engine-Group-Three-BSCS32E1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Blog-Engine.props
 E:\Blog-Engine-Group-Three-BSCS32E1\Blog-Engine-Group-Three-BSCS32E1\obj\Debug\net8.0\staticwebassets.pack.json
-E:\Blog-Engine-Group-Three-BSCS32E1\Blog-Engine-Group-Three-BSCS32E1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 E:\Blog-Engine-Group-Three-BSCS32E1\Blog-Engine-Group-Three-BSCS32E1\obj\Debug\net8.0\scopedcss\bundle\Blog-Engine.styles.css
-E:\Blog-Engine-Group-Three-BSCS32E1\Blog-Engine-Group-Three-BSCS32E1\obj\Debug\net8.0\scopedcss\projectbundle\Blog-Engine.bundle.scp.css
 E:\Blog-Engine-Group-Three-BSCS32E1\Blog-Engine-Group-Three-BSCS32E1\obj\Debug\net8.0\Blog-Eng.AC07D413.Up2Date
 E:\Blog-Engine-Group-Three-BSCS32E1\Blog-Engine-Group-Three-BSCS32E1\obj\Debug\net8.0\Blog-Engine.dll
 E:\Blog-Engine-Group-Three-BSCS32E1\Blog-Engine-Group-Three-BSCS32E1\obj\Debug\net8.0\refint\Blog-Engine.dll

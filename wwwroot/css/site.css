@@ -15,12 +15,13 @@ html {
 
 html {
 
-    min-height: 100%;
 }
 
-body{
-  margin-bottom: 60px;
-  background-color:darkgrey;
+body {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 60px;
+    background-color: darkgrey;
 }
 
 
@@ -69,28 +70,22 @@ th,td{
     font-weight: bold;
     width: max-content;
 }
-.footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    white-space: nowrap;
-    line-height: 60px;
-    background-color: black;
-}
+
  .footer .container,
  .footer .container a {
      text-decoration:none;
-        color: white;
+     color: white;
  }
 .footer .container a:hover{
         text-decoration:underline;
 }
-.navbar{
+.navbar {
+
     background-color: black;
     width: 100%;
     white-space: nowrap;
     line-height: 60px;
-    padding:0;
+    padding: 0;
 }
 
 .navbar a {
@@ -98,4 +93,32 @@ th,td{
     text-decoration: none;
 
 }
+.display-4{
+    padding: 25px 10px;
+    font-weight:600;
+    font-family:Georgia;
+}
+.box {
+    border-top: 2px solid black;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 25px 10px;
+}
+.images{
+    border-radius:100px;
+    box-shadow: 0 10px 20px 10px gray;
+    border: 3px solid white;
+    width:200px;
+    height:200px;
+}
+.desc {
+
+
+    font-size:20px;
+    font-weight: 500;
+}
+
 
