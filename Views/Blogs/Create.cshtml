@@ -4,7 +4,7 @@
     ViewData["Title"] = "Create";
 }
 
-<h1 class="create-header">“Write, Share, Inspire”</h1>
+<h1 class="create-header">“Write, Share, Inspire”</h1><br />
 
 <hr />
 <div class="row">
@@ -13,7 +13,7 @@
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
                 <label asp-for="Title" class="control-label"></label>
-                <input asp-for="Title" class="form-control" placeholder="Title" maxlength="50"/>
+                <input asp-for="Title" class="form-control" placeholder="Title" maxlength="50" />
                 <span asp-validation-for="Title" class="text-danger"></span>
             </div>
             <div class="form-group">
@@ -23,7 +23,7 @@
             </div>
             <div class="form-group">
                 <label asp-for="Author" class="control-label"></label>
-                <input asp-for="Author" class="form-control" placeholder="Author" maxlength="50" />
+                <input asp-for="Author" class="form-control" maxlength="50" placeholder="Author" />
                 <span asp-validation-for="Author" class="text-danger"></span>
             </div>
             <div class="form-group">

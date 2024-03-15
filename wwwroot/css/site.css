@@ -21,7 +21,8 @@ body {
     display: flex;
     flex-direction: column;
     margin-bottom: 60px;
-    background-color: darkgrey;
+    background-image: linear-gradient(to right, rgb(60, 144, 144), rgb(145, 213, 145));
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 
@@ -53,22 +54,23 @@ td {
     word-break: break-word;
 }
 
-table{
-    background-color: #454545;
-    border-radius:15px;
+table {
+    background-color: rgb(36, 36, 36);
+    border-radius: 15px;
 }
 th,td{
     color:white;
 }
-.create-header {
+.create-header, .details-header {
     border-radius:15px;
-    box-shadow:5px 10px 10px black;
-    background-color: gray;
+    box-shadow:5px 10px 5px gray;
+    background-color: lightgray;
     padding: 5px 10px;
-    color: white;
+    color: black;
     font-family: 'Times New Roman';
     font-weight: bold;
     width: max-content;
+
 }
 
  .footer .container,
@@ -80,8 +82,7 @@ th,td{
         text-decoration:underline;
 }
 .navbar {
-
-    background-color: black;
+    background-color: rgb(36, 36, 36);
     width: 100%;
     white-space: nowrap;
     line-height: 60px;
@@ -120,5 +121,6 @@ th,td{
     font-size:20px;
     font-weight: 500;
 }
+
 
 
