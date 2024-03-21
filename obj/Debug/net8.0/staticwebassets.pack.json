@@ -9,12 +9,20 @@
       "PackagePath": "staticwebassets\\about-page-img(s)\\mau.jpg"
     },
     {
+      "Id": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\wwwroot\\css\\landing.css",
+      "PackagePath": "staticwebassets\\css\\landing.css"
+    },
+    {
       "Id": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\wwwroot\\imgs\\books.webp",
+      "PackagePath": "staticwebassets\\imgs\\books.webp"
     },
     {
       "Id": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\wwwroot\\js\\site.js",

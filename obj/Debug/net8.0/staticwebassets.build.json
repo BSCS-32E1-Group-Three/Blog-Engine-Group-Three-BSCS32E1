@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aBn+6e2B/UvmrAsIxsGhXgBEMxEU4m9IPuEiaO/dwgY=",
+  "Hash": "j/7PqDC1BSbWczDtIHk6xkPn17Jl5nWZQc1YwxCz2uA=",
   "Source": "Blog-Engine",
   "BasePath": "_content/Blog-Engine",
   "Mode": "Default",
@@ -55,6 +55,25 @@
       "OriginalItemSpec": "wwwroot\\about-page-img(s)\\mau.jpg"
     },
     {
+      "Identity": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\wwwroot\\css\\landing.css",
+      "SourceId": "Blog-Engine",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\wwwroot\\",
+      "BasePath": "_content/Blog-Engine",
+      "RelativePath": "css/landing.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\landing.css"
+    },
+    {
       "Identity": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\wwwroot\\css\\site.css",
       "SourceId": "Blog-Engine",
       "SourceType": "Discovered",
@@ -91,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\wwwroot\\imgs\\books.webp",
+      "SourceId": "Blog-Engine",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\wwwroot\\",
+      "BasePath": "_content/Blog-Engine",
+      "RelativePath": "imgs/books.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\books.webp"
     },
     {
       "Identity": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\wwwroot\\js\\site.js",

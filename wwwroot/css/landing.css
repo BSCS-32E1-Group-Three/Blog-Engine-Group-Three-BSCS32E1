@@ -1,0 +1,33 @@
+﻿
+.content {
+    background-color: rgb(36, 36, 36);
+    height: 300px;
+    color:white;
+    border-radius:50px;
+
+}
+.title, p {
+    padding: 25px 50px 10px;
+}
+p{
+    font-size:20px;
+}
+.create-l {
+    margin-left:50px;
+    font-size:20px;
+
+    color:white;
+    text-decoration:none;
+}
+.create-l:hover {
+    color: white;
+    text-decoration:underline;
+
+}
+@media (max-width: 1080px) {
+    .content{
+        height:400px;
+    }
+}
+
+
