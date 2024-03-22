@@ -3,64 +3,28 @@
   "WorkspaceRootPath": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|e:\\blog-engine-group-three-bscs32e1\\blog-engine-group-three-bscs32e1\\views\\blogs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|solutionrelative:views\\blogs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|e:\\blog-engine-group-three-bscs32e1\\blog-engine-group-three-bscs32e1\\views\\blogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|solutionrelative:views\\blogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|e:\\blog-engine-group-three-bscs32e1\\blog-engine-group-three-bscs32e1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|e:\\blog-engine-group-three-bscs32e1\\blog-engine-group-three-bscs32e1\\views\\home\\landing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|solutionrelative:views\\home\\landing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|e:\\blog-engine-group-three-bscs32e1\\blog-engine-group-three-bscs32e1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|e:\\blog-engine-group-three-bscs32e1\\blog-engine-group-three-bscs32e1\\wwwroot\\css\\landing.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|solutionrelative:wwwroot\\css\\landing.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|e:\\blog-engine-group-three-bscs32e1\\blog-engine-group-three-bscs32e1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|e:\\blog-engine-group-three-bscs32e1\\blog-engine-group-three-bscs32e1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|e:\\blog-engine-group-three-bscs32e1\\blog-engine-group-three-bscs32e1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|e:\\blog-engine-group-three-bscs32e1\\blog-engine-group-three-bscs32e1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|e:\\blog-engine-group-three-bscs32e1\\blog-engine-group-three-bscs32e1\\views\\blogs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|solutionrelative:views\\blogs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|e:\\blog-engine-group-three-bscs32e1\\blog-engine-group-three-bscs32e1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|e:\\blog-engine-group-three-bscs32e1\\blog-engine-group-three-bscs32e1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|e:\\blog-engine-group-three-bscs32e1\\blog-engine-group-three-bscs32e1\\views\\home\\landing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|solutionrelative:views\\home\\landing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|e:\\blog-engine-group-three-bscs32e1\\blog-engine-group-three-bscs32e1\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|solutionrelative:models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|e:\\blog-engine-group-three-bscs32e1\\blog-engine-group-three-bscs32e1\\views\\blogs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|solutionrelative:views\\blogs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|e:\\blog-engine-group-three-bscs32e1\\blog-engine-group-three-bscs32e1\\migrations\\20240312123822_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|solutionrelative:migrations\\20240312123822_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|e:\\blog-engine-group-three-bscs32e1\\blog-engine-group-three-bscs32e1\\wwwroot\\css\\landing.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B8096086-20CD-4A6A-9DC7-8AAFEA926241}|Blog-Engine.csproj|solutionrelative:wwwroot\\css\\landing.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,8 +34,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-21T06:57:30.854Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
@@ -80,27 +58,14 @@
               "RelativeDocumentMoniker": "wwwroot\\css\\landing.css",
               "ToolTip": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\wwwroot\\css\\landing.css",
               "RelativeToolTip": "wwwroot\\css\\landing.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-03-21T06:03:02.194Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "site.css",
-              "DocumentMoniker": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-21T06:57:30.854Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Landing.cshtml",
               "DocumentMoniker": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\Views\\Home\\Landing.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Landing.cshtml",
@@ -109,160 +74,43 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-21T05:45:40.904Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
-              "ToolTip": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "Views\\Home\\About.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-14T07:43:53.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\Views\\Blogs\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Blogs\\Index.cshtml",
-              "ToolTip": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\Views\\Blogs\\Index.cshtml",
-              "RelativeToolTip": "Views\\Blogs\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-12T12:46:08.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\Views\\Blogs\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Blogs\\Create.cshtml",
-              "ToolTip": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\Views\\Blogs\\Create.cshtml",
-              "RelativeToolTip": "Views\\Blogs\\Create.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-13T04:59:24.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-12T12:41:15.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-14T07:05:22.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-21T04:38:44.35Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T04:38:41.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-22T05:02:16.407Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\Views\\Blogs\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Blogs\\Create.cshtml",
+              "ToolTip": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\Views\\Blogs\\Create.cshtml",
+              "RelativeToolTip": "Views\\Blogs\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-14T07:43:22.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-22T04:53:25.808Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBcAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T07:30:49.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\Views\\Blogs\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Blogs\\Details.cshtml",
-              "ToolTip": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\Views\\Blogs\\Details.cshtml",
-              "RelativeToolTip": "Views\\Blogs\\Details.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAyAAAA",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-13T05:37:58.179Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Blog.cs",
-              "DocumentMoniker": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\Models\\Blog.cs",
-              "RelativeDocumentMoniker": "Models\\Blog.cs",
-              "ToolTip": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\Models\\Blog.cs",
-              "RelativeToolTip": "Models\\Blog.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T05:50:37.732Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "20240312123822_Initial.cs",
-              "DocumentMoniker": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\Migrations\\20240312123822_Initial.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240312123822_Initial.cs",
-              "ToolTip": "E:\\Blog-Engine-Group-Three-BSCS32E1\\Blog-Engine-Group-Three-BSCS32E1\\Migrations\\20240312123822_Initial.cs",
-              "RelativeToolTip": "Migrations\\20240312123822_Initial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T05:50:20.762Z"
+              "WhenOpened": "2024-03-22T04:49:17.757Z"
             }
           ]
         }
