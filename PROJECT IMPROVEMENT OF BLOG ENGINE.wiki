@@ -32,7 +32,7 @@ The current process for software development of the Simple Calculator, Simple Ro
 
 # '''Requirements Gathering:'''
 
-* Initially, the requirements for each application are gathered from stakeholders, including functionality, features, and design preferences.
+* Initially, the requirements for each application are gathered including functionality, features, and design preferences.
 * This stage involves discussions, meetings, and documentation to ensure a clear understanding of the project scope.
 
 # '''Design Phase:'''
@@ -96,7 +96,7 @@ The current process for software development of the Simple Calculator, Simple Ro
 
 # '''Prioritized Maintenance Tasks:'''
 
-* Implement a prioritization framework (such as the MoSCoW method or the Eisenhower Matrix) to categorize maintenance tasks based on urgency, impact, and effort required.
+* Implement a prioritization framework to categorize maintenance tasks based on urgency, impact, and effort required.
 * Allocate dedicated resources, such as a maintenance team or support staff, to address critical issues promptly and proactively.
 * Establish service level agreements (SLAs) for response times and resolution times to ensure timely resolution of maintenance requests.
 
@@ -134,7 +134,7 @@ Phase 1: Planning and Preparation
 * Milestone 1: Project Kickoff Meeting
 
 * Date: March 8, 2024
-* Objective: Align stakeholders, define project scope, and establish goals.
+* Objective: Align and define project scope, and establish goals.
 
 * Milestone 2: Requirements Gathering
 
@@ -185,7 +185,7 @@ Phase 4: Deployment and Launch
 * Milestone 11: Deployment and Launch
 
 * Date: April 22 – May 4, 2024
-* Objective: Deploy the Simple Calculator, Simple Rock-Paper-Scissors Game, and Blog Engine to production environments for public use.
+* Objective: Deploy the Blog Engine to production environments for public use.
 
 * Milestone 12: Post-launch Review
 
@@ -206,7 +206,7 @@ Phase 5: Maintenance and Support
 
 * Resource Allocation:
 
-* Development Team: Software developers, designers, and QA engineers.
+* Development Team: Software developers and designers.
 * Project Manager: Responsible for overall project coordination, scheduling, and communication.
 
 '''EVALUATION AND RISK ASSESSMENT'''
@@ -215,7 +215,7 @@ Phase 5: Maintenance and Support
 
 '''User Satisfaction''':
 
-# '''Metric''': User satisfaction surveys and feedback ratings collected from users of the Simple Calculator, Simple Rock-Paper-Scissors Game, and Blog Engine.
+# '''Metric''': User satisfaction surveys and feedback ratings collected from users of the Blog Engine.
 # '''Method''': Implement in-app feedback mechanisms and post-launch surveys to gather qualitative and quantitative feedback from users.
 # '''Analysis''': Analyze survey responses and feedback ratings to assess overall user satisfaction levels and identify areas for improvement.
 
@@ -235,7 +235,7 @@ Phase 5: Maintenance and Support
 '''User Acceptance''':
 
 # '''Risk''': Low user adoption or dissatisfaction with the applications.
-# '''Mitigation''': Involve stakeholders and end-users throughout the development process, gather feedback iteratively, and prioritize user-centric design and features.
+# '''Mitigation''': Involve end-users throughout the development process, gather feedback iteratively, and prioritize user-centric design and features.
 
 '''CONCLUSION'''
 
